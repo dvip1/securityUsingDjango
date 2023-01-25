@@ -1,0 +1,16 @@
+# venv files
+venv/
+bin/
+lib/
+lib64/
+share/
+include/
+# .pyc files
+*.pyc
+
+# local settings
+local_settings.py
+
+# database files
+db.sqlite3
+
